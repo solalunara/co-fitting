@@ -1,0 +1,3 @@
+Fine Temperature (C) - Plot 0	Photodiode Voltage (V) - Plot 0
+1.0,1.0
+2.0,2.0
